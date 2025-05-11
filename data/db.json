@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "text": "manam erundhal markam undu",
+      "checked": false
+    },
+    {
+      "id": "2",
+      "text": "yella puzhagum eraivannukke",
+      "checked": true
+    },
+    {
+      "id": "3",
+      "text": "kurttram parpin surttram ellai",
+      "checked": false
+    }
+  ]
+}
