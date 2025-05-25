@@ -8,7 +8,7 @@ import SearchItem from './SearchItem.js';
 import apiRequest from './APIRequest.js';
 function App() {
   const [items, setItem] = useState ([]);
-  const API_URL="http://localhost:3000/items"
+  const API_URL="https://683289e0c3f2222a8cb29cff.mockapi.io/items"
   const [newItem,setNewItem]=useState('')
   const [search,setSearch]=useState('')
   const [fetchError,setFetchError]=useState(null)
